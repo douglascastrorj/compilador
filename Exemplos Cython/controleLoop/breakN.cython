@@ -1,0 +1,17 @@
+
+int main()
+{
+   
+   for(int i = 0; i < 2; i++){
+      print i;
+      while(true){
+         do{
+            print "quebrar 2 while";
+            break(2);
+         }while(true);
+      }
+   }
+   
+   
+ 
+}

@@ -1,0 +1,19 @@
+
+int main()
+{
+   
+   nome = "Joãozinho";
+   idade = 20;
+   salario = 750;
+   sexo = 'M';
+   
+   pegador = false;
+
+   print nome;
+   print idade;
+   print salario;
+   print sexo;
+   print pegador;
+   
+   
+}

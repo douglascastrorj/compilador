@@ -1,0 +1,15 @@
+
+int main()
+{
+   
+   int a = 5;
+   
+   if(true){
+      int a = 4;
+      print a;
+   }
+   
+   print a;
+   
+ 
+}

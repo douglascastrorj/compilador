@@ -1,0 +1,11 @@
+
+int main()
+{
+   
+   str = "hello";
+   str2 = " world!";
+   
+   str3 = str + str2;
+   
+   print str3;
+}

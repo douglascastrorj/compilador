@@ -1,0 +1,31 @@
+Escopo 3
+int	a	temp5	0
+int	temp4	temp4	-982010312
+
+
+Escopo 2
+int	a	temp2	0
+char*	b	temp8	4
+float	c	temp12	0
+char*	d	temp14	20
+int	temp1	temp1	-982010312
+float	temp10	temp10	-1
+float	temp11	temp11	0
+char*	temp13	temp13	8
+int	temp17	temp17	20
+int	temp18	temp18	20
+int	temp19	temp19	-982014080
+int	temp20	temp20	20
+int	temp21	temp21	-982014080
+int	temp22	temp22	20
+int	temp23	temp23	-982014080
+int	temp3	temp3	-982010312
+int	temp6	temp6	22016832
+char*	temp7	temp7	4
+float	temp9	temp9	4
+int	x	temp24	0
+
+
+Escopo 1
+
+

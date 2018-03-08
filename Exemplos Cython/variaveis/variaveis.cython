@@ -1,0 +1,24 @@
+
+int main()
+{
+   string nome;
+   int idade;
+   float salario;
+   char sexo;
+   bool pegador;
+   
+   nome = "Joãozinho";
+   idade = 20;
+   salario = 1000;
+   sexo = 'M';
+   
+   pegador = false;
+
+   print nome;
+   print idade;
+   print salario;
+   print sexo;
+   print pegador;
+   
+   
+}

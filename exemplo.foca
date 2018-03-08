@@ -1,0 +1,35 @@
+
+int main()
+{
+   
+   int a = 5;
+   
+   if(true){
+      int a = 4;
+      print a;
+   }
+   
+   print a;
+   
+   
+   b = "foca";
+   
+   print b;
+   
+   c = 2.5 + a;
+   
+   print c;
+   
+   
+   d = "focafoca";
+   
+   d = b + d;
+   
+   print d;
+   
+
+
+   x = 1 + 2 + 3 + 5;
+   print x;
+ 
+}

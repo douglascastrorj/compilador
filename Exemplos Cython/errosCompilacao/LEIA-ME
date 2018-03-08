@@ -1,0 +1,4 @@
+para verificar os erros de compilação,
+basta olhar o console para visualizar a mensagem do erro apropriado
+
+quando um erro ocorre o arquivo compilado (src.cpp) nao sera gerado.

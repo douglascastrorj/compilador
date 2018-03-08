@@ -1,0 +1,19 @@
+
+int main()
+{
+
+   a = true;
+
+   if(not a){
+      
+      print " lala ";
+      
+   }else{
+      
+      print "lelele";
+      
+   }
+   
+   
+   
+}

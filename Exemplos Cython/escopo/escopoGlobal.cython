@@ -1,0 +1,15 @@
+
+int main()
+{
+   
+   global float pi = 3.14;
+   
+   a = 0;
+   if( a equals 0){
+      
+      int pi = 3;
+      
+      print pi;
+      print global pi;
+   }
+}

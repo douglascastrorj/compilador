@@ -1,0 +1,12 @@
+
+int main()
+{
+   
+   print "-- What is the music of life?";
+   
+   string a;
+   read a;
+   
+   print "-- Welcome home";
+   
+}

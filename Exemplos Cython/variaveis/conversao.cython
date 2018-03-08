@@ -1,0 +1,16 @@
+
+int main()
+{
+   
+   int a = 4.5;
+   
+   print a;
+   
+   
+   float pi = 3.1415;
+   
+   int floor = pi;
+   
+   print floor;
+   
+}

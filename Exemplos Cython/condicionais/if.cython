@@ -1,0 +1,21 @@
+
+int main()
+{
+
+   a = 0;
+   
+   if(true){
+      print "sempre entra aqui";
+   }
+   
+   if(a equals 0){
+      print "variavel 'a' igual a 0";
+   }
+   
+   b = 1;
+   if(b < 2){
+      c = 3.14;
+      print c;
+   }
+   
+}
