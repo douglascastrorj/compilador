@@ -8,6 +8,6 @@ veja exemplos de codigos nas pastas Exemplos Cython
 # comandos para instalar no ubuntu
 sudo apt-get install byacc flex
 
-#como rodar
-escreve seu código no arquivo exemplo.foca 
+# como rodar
+escreva seu código no arquivo exemplo.foca 
 e execute o comando make
